@@ -1,0 +1,33 @@
+-classpath
+'/Users/ksenia/.m2/repository/org/openjfx/javafx/21.0.2/javafx-21.0.2.pom:/Users/ksenia/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2.jar:/Users/ksenia/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2-mac-aarch64.jar:/Users/ksenia/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2.jar:/Users/ksenia/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2-mac-aarch64.jar:/Users/ksenia/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2.jar:/Users/ksenia/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2-mac-aarch64.jar:/Users/ksenia/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2.jar:/Users/ksenia/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2-mac-aarch64.jar:/Users/ksenia/.m2/repository/org/xerial/sqlite-jdbc/3.42.0.0/sqlite-jdbc-3.42.0.0.jar'
+-encoding
+'UTF-8'
+-overview
+'/Users/ksenia/Desktop/mursu-wallstreet/com.mursu/src/main/javadoc/overview.html'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/ksenia/Desktop/mursu-wallstreet/com.mursu/src/main/java:/Users/ksenia/Desktop/mursu-wallstreet/com.mursu/src/main/javadoc'
+-subpackages
+eds.framework
+eds.model
+eds.database
+controller
+view
+eduni.distributions
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/ksenia/Desktop/mursu-wallstreet/com.mursu/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'com.mursu 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'com.mursu 1.0-SNAPSHOT API'

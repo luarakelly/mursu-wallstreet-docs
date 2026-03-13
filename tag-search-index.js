@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Mursu Wallstreet API","h":"Overview","k":"16","u":"index.html#mursu-wallstreet-api-heading"},{"l":"Serialized Form","h":"","k":"18","u":"serialized-form.html"}];updateSearchResults();
